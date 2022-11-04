@@ -9,11 +9,13 @@ a) java 8 werkte niet maar met 11 wel (zie console output onderaan).
 b) Er zijn 88 pluins geïnstalleerd.
 
 
-c) Users zijn hier te vinden: var/lib/jenkins/users
+c) Users zijn hier te vinden: var/lib/jenkins/users 
+
    Naam: Jarne_9427057575369852846
    
    
-   sudo apt-get install jenkins
+```
+sudo apt-get install jenkins
 Hit:1 http://be.archive.ubuntu.com/ubuntu jammy InRelease
 Get:2 http://be.archive.ubuntu.com/ubuntu jammy-updates InRelease [114 kB]                                           
 Ign:3 https://pkg.jenkins.io/debian-stable binary/ InRelease                                                         
@@ -96,5 +98,5 @@ jenkins is already the newest version (2.361.3).
 1 not fully installed or removed.
 After this operation, 0 B of additional disk space will be used.
 Do you want to continue? [Y/n] y
-Setting up jenkins (2.361.3) ...
+Setting up jenkins (2.361.3) ...```
 
